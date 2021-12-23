@@ -1171,7 +1171,7 @@
  	 	 	 	"eng": "Old Pouch"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "使い古されたポーチ。 \r\n         大きな口と赤い唇を持つ奇妙なカエルの絵が描かれている。 \r\n         擦り切れた奇妙なな絵の意味はわからないが、小物を入れるのにちょうどいい。 \r\n         装備するとインベントリサイズが増える",
+ 	 	 	 	"trans": "使い古されたポーチ。 \r\n         大きな口と赤い唇を持つ奇妙なカエルの絵が描かれている。 \r\n         擦り切れた奇妙な絵の意味はわからないが、小物を入れるのにちょうどいい。 \r\n         装備するとインベントリサイズが増える",
  	 	 	 	"eng": "A forgotten ancient pouch, \r\n        there is a weird cartoon frog with big mouth and red lips drawing at the side of it,\r\n        the meaning of the ancient ominous drawing is unknown, but it is handy for keep some small object in it.\r\n        increase inventory space when equipped."
  	 	 	}
  	 	},
@@ -1211,7 +1211,7 @@
  	 	 	 	"eng": "Autonomous Storage Unit"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "装備を運ぶために設計され、自律的に後に続くように設計された軍用ロボット。 \r\n         オンボードの先進的なAIによってクモ動きを模した6本の強い足で、 \r\n         それはあなたが演奏しているミッションに邪魔をするのを避けながら、それはあなたに迅速かつ静かに追跡することができます",
+ 	 	 	 	"trans": "装備を運ぶために設計され、自律的に後に続くように設計された軍用ロボット。 \r\n         オンボードの先進的なAIによってクモの動きを模した6本の強い足で、 \r\n         あなたが遂行しているミッションに邪魔をするのを避けながら、あなたを迅速かつ静かに追跡する",
  	 	 	 	"eng": "An military used bot designed to carry your equipments and follows you autonomously,\r\n        with it's six strong legs that imitates the movement of spiders and a advance onboard AI, \r\n        it can follow you swiftly and quietly while it avoids get in the way of whatever mission you are performing"
  	 	 	}
  	 	},
@@ -1311,7 +1311,7 @@
  	 	 	 	"eng": "Personal Synaptic Accelerator"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "使用されると、AFKタスクで60分間スキップしてください。 \r\n         AFKスクリーンで使用する必要があります",
+ 	 	 	 	"trans": "使用によって、AFKタスクを60分間スキップする。 \r\n         AFKスクリーンで使用する必要があります",
  	 	 	 	"eng": "When used, skip 60 minutes on AFK tasks.\r\n        must be used at AFK screen"
  	 	 	}
  	 	},
